@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Sport Club Competition App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The project is build due the fact of missing webapp for club competition system.
 
 ## Available Scripts
 
